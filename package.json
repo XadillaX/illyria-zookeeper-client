@@ -25,7 +25,7 @@
     "async": "^1.4.0",
     "illyria": ">2.2.5 <2.3.0",
     "node-uuid": "^1.4.3",
-    "scarlet-task": "^0.1.0-comment",
+    "scarlet-task": "^2.0.0",
     "sugar": "^1.4.1"
   },
   "devDependencies": {
